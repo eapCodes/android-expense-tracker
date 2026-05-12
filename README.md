@@ -1,22 +1,36 @@
-# Expense Tracker App
+# Android Expense Tracker App
 
-A simple Android application that allows users to track daily expenses.
+A team school project built in Android Studio using Kotlin and Room database. The app helps users track expenses, manage categories, and organize personal spending information.
 
 ## Features
-- Add new expenses
-- View expense list
-- Edit and delete expenses
-- Monthly total calculation
-- Data stored locally using Room database
 
-## Tech Stack
+- Add, edit, and delete expenses
+- Add, edit, and delete expense categories
+- Store expense data using Room database
+- Basic user interface for entering and viewing expense information
+- Input validation and debugging improvements
+- Password/change password functionality
+
+## Tools and Technologies
+
 - Kotlin
 - Android Studio
 - Room Database
-- RecyclerView
+- Gradle
+- Git and GitHub
 
-## Screens
-1. Home Dashboard
-2. Add Expense Screen
-3. Expense List Screen
-4. Edit Expense Screen
+## My Role
+
+I contributed to the development, testing, debugging, and improvement of app features as part of a class team project. My work included helping improve expense/category functionality, fixing bugs, testing app behavior, and documenting project progress through GitHub.
+
+## What I Learned
+
+- How to build an Android app using Kotlin
+- How to use Room database for local data storage
+- How to work with a teammate using Git and GitHub
+- How to debug app issues and improve features over time
+- How to organize a mobile app project in Android Studio
+
+## Project Status
+
+Completed for class with continued improvements.
